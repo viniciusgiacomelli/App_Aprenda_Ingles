@@ -1,4 +1,7 @@
 # App_Aprenda_Ingles
-Um app educacional com figuras de animais, números e vogais que reproduz a pronúncia e escrita do equivalente em inglês
+## Um app educacional com figuras de animais, números e vogais que reproduz a pronúncia e escrita do equivalente em inglês quando tocado.
 
-[![Watch the video](https://img.youtube.com/vi/teTCR29enk4/hqdefault.jpg)](https://www.youtube.com/watch?v=teTCR29enk4)
+# Veja um Vídeo do App em funcionamento:
+
+>[!VIDEO](https://user-images.githubusercontent.com/41841454/154342603-078ebd7c-0c44-467d-846c-c0dd12c52881.mp4)
+
